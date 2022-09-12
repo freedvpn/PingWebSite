@@ -28,6 +28,8 @@ jobs:
       run: Web.Ping --host  https://mf.aqingyuan.repl.co
     - name: Ping pan.18sexy.repl.co
       run: Web.Ping --host https://pan.18sexy.repl.co
+    - name: Ping drpy.aqingyuan.repl.co
+      run: Web.Ping --host  https://drpy.aqingyuan.repl.co
     - name: Ping alist.52qy.repl.co
       run: Web.Ping --host https://alist.52qy.repl.co
     - name: Ping ytsite.aqingyuan.repl.co
@@ -38,6 +40,8 @@ jobs:
       run: Web.Ping --host  https://mf.aqingyuan.repl.co
     - name: Ping pan.18sexy.repl.co
       run: Web.Ping --host https://pan.18sexy.repl.co
+    - name: Ping drpy.aqingyuan.repl.co
+      run: Web.Ping --host  https://drpy.aqingyuan.repl.co  
     - name: Ping alist.52qy.repl.co
       run: Web.Ping --host https://alist.52qy.repl.co
     - name: Ping ytsite.aqingyuan.repl.co
@@ -48,6 +52,8 @@ jobs:
       run: Web.Ping --host  https://mf.aqingyuan.repl.co
     - name: Ping pan.18sexy.repl.co
       run: Web.Ping --host https://pan.18sexy.repl.co
+    - name: Ping drpy.aqingyuan.repl.co
+      run: Web.Ping --host  https://drpy.aqingyuan.repl.co      
 
 
 
