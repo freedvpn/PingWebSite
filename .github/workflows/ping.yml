@@ -22,6 +22,14 @@ jobs:
       run: Web.Ping --host https://alist.52qy.repl.co
     - name: Ping alist.52qy.repl.co
       run: Web.Ping --host https://alist.52qy.repl.co
+    - name: Ping drpy.aqingyuan.repl.co
+      run: Web.Ping --host  https://drpy.aqingyuan.repl.co      
+    - name: Ping pluto.aqingyuan.repl.co
+      run: Web.Ping --host  https://pluto.aqingyuan.repl.co  
+    - name: Ping drpy.aqingyuan.repl.co
+      run: Web.Ping --host  https://drpy.aqingyuan.repl.co      
+    - name: Ping pluto.aqingyuan.repl.co
+      run: Web.Ping --host  https://pluto.aqingyuan.repl.co  
 
 
 
